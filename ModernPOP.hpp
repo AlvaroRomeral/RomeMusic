@@ -131,3 +131,17 @@ class HalogenUGotThat
 	duration=112;
 	musicClass = "ModernPOP";
 };
+class mariya_takeuchi__plastic_love
+{
+	name = "Mariya Takeuchi - Plastic Love";
+	sound[] = {"RomeMusic\ModernPOP\mariya_takeuchi__plastic_love.ogg",db+0,1};
+	duration=476;
+	musicClass = "ModernPOP";
+};
+class soldierseyes_jacksavorettisubtituladoespanol
+{
+	name = "Soldier's Eyes - Jack Savoretti";
+	sound[] = {"RomeMusic\ModernPOP\soldierseyes_jacksavorettisubtituladoespanol.ogg",db+0,1};
+	duration=189;
+	musicClass = "ModernPOP";
+};

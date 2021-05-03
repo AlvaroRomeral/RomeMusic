@@ -54,3 +54,38 @@ class jojo_propaganda
 	duration=183;
 	musicClass = "Anime";
 };
+class last_train_home
+{
+	name = "Jojo - Last Train Home";
+	sound[] = {"RomeMusic\Anime\last_train_home.ogg",db+0,1};
+	duration=342;
+	musicClass = "Anime";
+};
+class jojo_stardust_crusaders_ost___iggy_death_theme
+{
+	name = "JoJo - Iggy Death Theme";
+	sound[] = {"RomeMusic\Anime\jojo_stardust_crusaders_ost___iggy_death_theme.ogg",db+0,1};
+	duration=227;
+	musicClass = "Anime";
+};
+class berserk_soundtrack___4_gatsu
+{
+	name = "Berserk - 4 Gatsu";
+	sound[] = {"RomeMusic\Anime\berserk_soundtrack___4_gatsu.ogg",db+0,1};
+	duration=216;
+	musicClass = "Anime";
+};
+class kommsussertod_m_10directorseditversion_
+{
+	name = "Evangelion - Komm Susser Todd";
+	sound[] = {"RomeMusic\Anime\kommsussertod_m_10directorseditversion_.ogg",db+0,1};
+	duration=467;
+	musicClass = "Anime";
+};
+class evangelion_tsubasawokudasai
+{
+	name = "Evangelion - Tsubasa wo kudasai";
+	sound[] = {"RomeMusic\Anime\evangelion_tsubasawokudasai.ogg",db+0,1};
+	duration=300;
+	musicClass = "Anime";
+};

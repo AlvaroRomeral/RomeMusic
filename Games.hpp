@@ -215,3 +215,52 @@ class take_your_time
 	duration=259;
 	musicClass = "Games";
 };
+class farcry3blooddragonost_blooddragontheme_track02_ 
+{
+	name = "Farcry 3 Blood Dragon - Blood Dragon Theme";
+	sound[] = {"RomeMusic\Games\farcry3blooddragonost_blooddragontheme_track02_.ogg",db+0,1};
+	duration=186;
+	musicClass = "Games";
+};
+class metalgearsolidv_soundtrack_herestoyou 
+{
+	name = "Metal Gear Solid V - Here's to You";
+	sound[] = {"RomeMusic\Games\metalgearsolidv_soundtrack_herestoyou.ogg",db+0,1};
+	duration=191;
+	musicClass = "Games";
+};
+class valhalla_calling_by_miracle_of_sound__assassins_creed___vikingnordic_dark_folk_music_ 
+{
+	name = "Miracle Of Sound - Assassin's Creed VALHALLA CALLING";
+	sound[] = {"RomeMusic\Games\valhalla_calling_by_miracle_of_sound__assassins_creed___vikingnordic_dark_folk_music_.ogg",db+0,1};
+	duration=227;
+	musicClass = "Games";
+};
+class running_with_rifles___main_theme 
+{
+	name = "Running with rifles - Main theme";
+	sound[] = {"RomeMusic\Games\running_with_rifles___main_theme.ogg",db+0,1};
+	duration=150;
+	musicClass = "Games";
+};
+class nierost_kainesalvation 
+{
+	name = "Nier - Kaine Salvation";
+	sound[] = {"RomeMusic\Games\nierost_kainesalvation.ogg",db+0,1};
+	duration=187;
+	musicClass = "Games";
+};
+class nierost_kaineescape 
+{
+	name = "Nier - Kaine Escape";
+	sound[] = {"RomeMusic\Games\nierost_kaineescape.ogg",db+0,1};
+	duration=183;
+	musicClass = "Games";
+};
+class nierost_emilsacrifice 
+{
+	name = "Nier - Emil Sacrifice";
+	sound[] = {"RomeMusic\Games\nierost_emilsacrifice.ogg",db+0,1};
+	duration=207;
+	musicClass = "Games";
+};

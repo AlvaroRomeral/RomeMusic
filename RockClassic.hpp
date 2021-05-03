@@ -180,3 +180,38 @@ class avenged_sevenfold_hail_to_the_king
 	duration=314;
 	musicClass = "RockClassic";
 };
+class black_sabbath___paranoid__hq_
+{
+	name = "Black Sabbath - Paranoid";
+	sound[] = {"RomeMusic\RockClassic\black_sabbath___paranoid__hq_.ogg",db+0,1};
+	duration=175;
+	musicClass = "RockClassic";
+};
+class rockthecasbah_remastered_
+{
+	name = "The Clash - Rock the casbah";
+	sound[] = {"RomeMusic\RockClassic\rockthecasbah_remastered_.ogg",db+0,1};
+	duration=222;
+	musicClass = "RockClassic";
+};
+class rebelyell
+{
+	name = "Idol - Rebel yell";
+	sound[] = {"RomeMusic\RockClassic\rebelyell.ogg",db+0,1};
+	duration=289;
+	musicClass = "RockClassic";
+};
+class nitrousoxide
+{
+	name = "TerribleTim - Nitrous Oxide";
+	sound[] = {"RomeMusic\RockClassic\nitrousoxide.ogg",db+0,1};
+	duration=150;
+	musicClass = "RockClassic";
+};
+class dschinghiskhan_moskau
+{
+	name = "Dschinghis khan - Moskau";
+	sound[] = {"RomeMusic\RockClassic\dschinghiskhan_moskau.ogg",db+0,1};
+	duration=220;
+	musicClass = "RockClassic";
+};
