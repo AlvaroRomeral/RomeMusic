@@ -1,8 +1,7 @@
 #include "BIS_AddonInfo.hpp"
-class CfgPatches
-{
-	class RomeMusic
-	{
+
+class CfgPatches {
+	class RomeMusic {
 		name = "Rome's Music";
 		author = "Rome";
 		requiredVersion = 1.00;
@@ -12,64 +11,59 @@ class CfgPatches
       	worlds[] = {};
 	};
 };
-class CfgMusic
-{
-	#include "Military.hpp"
-	#include "HeavyMetal.hpp"
-	#include "RockClassic.hpp"
-	#include "Movies.hpp"
-	#include "ModernPOP.hpp"
-	#include "Country.hpp"
-	#include "ACDC.hpp"
-	#include "ClassicalEpic.hpp"
-	#include "Games.hpp"
-	#include "Darksynth.hpp"
-	#include "Anime.hpp"
+
+class CfgMusic {
+	#include "class\Anime.hpp"
+	#include "class\Classical.hpp"
+	#include "class\Country.hpp"
+	#include "class\Darksynth.hpp"
+	#include "class\Metal.hpp"
+	#include "class\Military.hpp"
+	#include "class\Pop.hpp"
+	#include "class\Rock.hpp"
+	#include "class\Tv.hpp"
+	#include "class\Videogames.hpp"
 };
-class CfgMusicClasses
-{
-	class Military
-	{
-		displayName = "RM - Military";
+
+class CfgMusicClasses {
+
+	class Anime {
+		displayName = "[RM] Anime";
 	};
-	class HeavyMetal
-	{
-		displayName = "RM - Heavy Metal";
+
+	class Classical {
+		displayName = "[RM] Classical";
 	};
-	class RockClassic
-	{
-		displayName = "RM - Rock Classic";
+
+	class Country {
+		displayName = "[RM] Country";
 	};
-	class Movies
-	{
-		displayName = "RM - Movies & Series";
+
+	class Darksynth {
+		displayName = "[RM] Darksynth";
 	};
-	class ModernPOP
-	{
-		displayName = "RM - POP/Modern";
+
+	class Metal {
+		displayName = "[RM] Metal";
 	};
-	class Country
-	{
-		displayName = "RM - Country";
+	
+	class Military {
+		displayName = "[RM] Military";
 	};
-	class ACDC
-	{
-		displayName = "RM - AC/DC";
+
+	class Pop {
+		displayName = "[RM] Pop";
 	};
-	class ClassicalEpic
-	{
-		displayName = "RM - Classical/Epic";
+
+	class Rock {
+		displayName = "[RM] Rock";
 	};
-	class Games
-	{
-		displayName = "RM - Videogames";
+
+	class Tv {
+		displayName = "[RM] Tv";
 	};
-	class Darksynth
-	{
-		displayName = "RM - Darksynth";
-	};
-	class Anime
-	{
-		displayName = "RM - Anime";
+
+	class Videogames {
+		displayName = "[RM] Videogames";
 	};
 };

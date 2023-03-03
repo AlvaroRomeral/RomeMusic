@@ -264,3 +264,31 @@ class nierost_emilsacrifice
 	duration=207;
 	musicClass = "Games";
 };
+
+class lone_star {
+	name = "Lone Star";
+	sound[] = {"RomeMusic\Games\lone_star.ogg",db+0,1};
+	duration=147;
+	musicClass = "Games";
+};
+
+class TheDreamofFlight {
+	name = "Civilization 6 - The Dream of Flight";
+	sound[] = {"RomeMusic\Games\TheDreamofFlight.ogg",db+0,1};
+	duration=239;
+	musicClass = "Games";
+};
+
+class Warhammer40kPreludeToWar {
+	name = "Warhammer 40k - Prelude To War";
+	sound[] = {"RomeMusic\Games\Warhammer40kPreludeToWar.ogg",db+0,1};
+	duration=177;
+	musicClass = "Games";
+};
+
+class TigerVeteran {
+	name = "TigerVeteran";
+	sound[] = {"RomeMusic\Military\TigerVeteran.ogg",db+0,1};
+	duration=57;
+	musicClass = "Military";
+};
