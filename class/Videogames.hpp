@@ -1,294 +1,293 @@
-class TheUnsungWar
-{
+class acecombat5_theunsungwar {
 	name = "Ace Combat 5 - The Unsung War";
-	sound[] = {"RomeMusic\Games\TheUnsungWar.ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\videogames\acecombat5_theunsungwar.ogg",db+0,1};
 	duration=441;
-	musicClass = "Games";
+	musicClass = "Videogames";
 };
-class MGS_V_Big_Boss_Returns
-{
-	name = "MGS V - Big Boss Returns";
-	sound[] = {"RomeMusic\Games\MGS_V_Big_Boss_Returns.ogg",db+0,1};
-	duration=300;
-	musicClass = "Games";
-};
-class Halo3OneFinalEffort
-{
-	name = "Halo 3 - One Final Effort";
-	sound[] = {"RomeMusic\Games\Halo3OneFinalEffort.ogg",db+0,1};
-	duration=240;
-	musicClass = "Games";
-};
-class Halo3FinishTheFight
-{
-	name = "Halo 3 - Finish The Fight";
-	sound[] = {"RomeMusic\Games\Halo3FinishTheFight.ogg",db+0,1};
-	duration=147;
-	musicClass = "Games";
-};
-class Halo3NeverForget
-{
-	name = "Halo 3 - Never Forget";
-	sound[] = {"RomeMusic\Games\Halo3NeverForget.ogg",db+0,1};
-	duration=187;
-	musicClass = "Games";
-};
-class Halo3RollCall
-{
-	name = "Halo 3 - Roll Call";
-	sound[] = {"RomeMusic\Games\Halo3RollCall.ogg",db+0,1};
-	duration=358;
-	musicClass = "Games";
-};
-class BlackCats
-{
-	name = "COD WAW - BlackCats";
-	sound[] = {"RomeMusic\Games\BlackCats.ogg",db+0,1};
-	duration=937;
-	musicClass = "Games";
-};
-class BloodIron
-{
-	name = "COD WAW - BloodIron";
-	sound[] = {"RomeMusic\Games\BloodIron.ogg",db+0,1};
-	duration=337;
-	musicClass = "Games";
-};
-class BraveSoldat
-{
-	name = "COD WAW - BraveSoldat";
-	sound[] = {"RomeMusic\Games\BraveSoldat.ogg",db+0,1};
-	duration=164;
-	musicClass = "Games";
-};
-class CoH2_MainTheme
-{
-	name = "CoH2 - Main Theme";
-	sound[] = {"RomeMusic\Games\CoH2_MainTheme.ogg",db+0,1};
-	duration=226;
-	musicClass = "Games";
-};
-class MW3_BattleForNewYork
-{
-	name = "MW3 - Battle For New York";
-	sound[] = {"RomeMusic\Games\MW3_BattleForNewYork.ogg",db+0,1};
-	duration=388;
-	musicClass = "Games";
-};
-class MW3_IStandAlone
-{
-	name = "MW3 - I Stand Alone";
-	sound[] = {"RomeMusic\Games\MW3_IStandAlone.ogg",db+0,1};
-	duration=284;
-	musicClass = "Games";
-};
-class MW3_MainTheme
-{
-	name = "MW3 - Main Theme";
-	sound[] = {"RomeMusic\Games\MW3_MainTheme.ogg",db+0,1};
-	duration=129;
-	musicClass = "Games";
-};
-class CoDWorldatWarRussianTheme
-{
-	name = "COD WAW - Russian Theme";
-	sound[] = {"RomeMusic\Games\CoDWorldatWarRussianTheme.ogg",db+0,1};
-	duration=389;
-	musicClass = "Games";
-};
-class Cod4AllGhilliedUp
-{
-	name = "Cod 4 - All Ghillied Up";
-	sound[] = {"RomeMusic\Games\Cod4-AllGhilliedUp.ogg",db+0,1};
-	duration=582;
-	musicClass = "Games";
-};
-class DawnOfANewTime
-{
-	name = "B1 - Dawn Of A New Time";
-	sound[] = {"RomeMusic\Games\DawnOfANewTime.ogg",db+0,1};
-	duration=195;
-	musicClass = "Games";
-};
-class TheFlightOfThePigeon
-{
-	name = "B1 - The Flight Of The Pigeon";
-	sound[] = {"RomeMusic\Games\TheFlightOfThePigeon.ogg",db+0,1};
-	duration=102;
-	musicClass = "Games";
-};
-class MW2WhiskeyHotel
-{
-	name = "MW2 - Whiskey Hotel";
-	sound[] = {"RomeMusic\Games\MW2WhiskeyHotel.ogg",db+0,1};
-	duration=476;
-	musicClass = "Games";
-};
-class DaredevilAceCombat7
-{
-	name = "Ace Combat 7 - Daredevil";
-	sound[] = {"RomeMusic\Games\Daredevil-AceCombat7.ogg",db+0,1};
-	duration=307;
-	musicClass = "Games";
-};
-class ArchangeAceCombat7
-{
-	name = "Ace Combat 7 - Archange";
-	sound[] = {"RomeMusic\Games\Archange-AceCombat7.ogg",db+0,1};
-	duration=253;
-	musicClass = "Games";
-};
-class AlicornAceCombat7
-{
+
+class acecombat7_alicorn {
 	name = "Ace Combat 7 - Alicorn";
-	sound[] = {"RomeMusic\Games\Alicorn-AceCombat7.ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\videogames\acecombat7_alicorn.ogg",db+0,1};
 	duration=231;
-	musicClass = "Games";
+	musicClass = "Videogames";
 };
-class DoomEternalBFGDivision
-{
-	name = "Doom Eternal - BFG Division";
-	sound[] = {"RomeMusic\Games\DoomEternal-BFGDivision.ogg",db+0,1};
-	duration=507;
-	musicClass = "Games";
+
+class acecombat7_archange {
+	name = "Ace Combat 7 - Archange";
+	sound[] = {"RomeMusic\audio\videogames\acecombat7_archange.ogg",db+0,1};
+	duration=253;
+	musicClass = "Videogames";
 };
-class DoomEternalCultistBase
-{
-	name = "Doom Eternal - Cultist Base";
-	sound[] = {"RomeMusic\Games\DoomEternal-CultistBase.ogg",db+0,1};
-	duration=332;
-	musicClass = "Games";
+
+class acecombat7_daredevil {
+	name = "Ace Combat 7 - Daredevil";
+	sound[] = {"RomeMusic\audio\videogames\acecombat7_daredevil.ogg",db+0,1};
+	duration=307;
+	musicClass = "Videogames";
 };
-class DoomEternalTheOnlyThingtheyFearisYou
-{
-	name = "Doom Eternal - The Only Thing they Fear is You";
-	sound[] = {"RomeMusic\Games\DoomEternal-TheOnlyThingtheyFearisYou.ogg",db+0,1};
-	duration=305;
-	musicClass = "Games";
-};
-class W40kChildrenoftheOmnissiah
-{
-	name = "W40k - Children of the Omnissiah";
-	sound[] = {"RomeMusic\Games\W40k-ChildrenoftheOmnissiah.ogg",db+0,1};
-	duration=107;
-	musicClass = "Games";
-};
-class W40kChildrenoftheOmnissiahEXTENDED
-{
-	name = "W40k - Children of the Omnissiah (EXTENDED)";
-	sound[] = {"RomeMusic\Games\W40k-ChildrenoftheOmnissiah(EXTENDED).ogg",db+0,1};
-	duration=616;
-	musicClass = "Games";
-};
-class yakuza_ost_baka_mitai_kiryu_full_version
-{
-	name = "Yakuza - Baka Mitai";
-	sound[] = {"RomeMusic\Games\yakuza_ost_-_baka_mitai_kiryu_full_version.ogg",db+0,1};
-	duration=616;
-	musicClass = "Games";
-};
-class dark_horizon
-{
-	name = "Escape from Tarkov - Dark Horizon";
-	sound[] = {"RomeMusic\Games\dark_horizon.ogg",db+0,1};
-	duration=244;
-	musicClass = "Games";
-};
-class escape_from_tarkov_main_music_theme
-{
-	name = "Escape from Tarkov - Main Theme";
-	sound[] = {"RomeMusic\Games\escape_from_tarkov_main_music_theme.ogg",db+0,1};
-	duration=326;
-	musicClass = "Games";
-};
-class metro_exodus_in_the_house_in_a_heartbeat
-{
-	name = "Metro Exodus - In the house in a heartbeat";
-	sound[] = {"RomeMusic\Games\metro_exodus_-_in_the_house_in_a_heartbeat.ogg",db+0,1};
-	duration=257;
-	musicClass = "Games";
-};
-class take_your_time 
-{
-	name = "War Thunder - Take your time ";
-	sound[] = {"RomeMusic\Games\take_your_time .ogg",db+0,1};
-	duration=259;
-	musicClass = "Games";
-};
-class farcry3blooddragonost_blooddragontheme_track02_ 
-{
-	name = "Farcry 3 Blood Dragon - Blood Dragon Theme";
-	sound[] = {"RomeMusic\Games\farcry3blooddragonost_blooddragontheme_track02_.ogg",db+0,1};
-	duration=186;
-	musicClass = "Games";
-};
-class metalgearsolidv_soundtrack_herestoyou 
-{
-	name = "Metal Gear Solid V - Here's to You";
-	sound[] = {"RomeMusic\Games\metalgearsolidv_soundtrack_herestoyou.ogg",db+0,1};
-	duration=191;
-	musicClass = "Games";
-};
-class valhalla_calling_by_miracle_of_sound__assassins_creed___vikingnordic_dark_folk_music_ 
-{
+
+class acvalhalla_valhallacalling  {
 	name = "Miracle Of Sound - Assassin's Creed VALHALLA CALLING";
-	sound[] = {"RomeMusic\Games\valhalla_calling_by_miracle_of_sound__assassins_creed___vikingnordic_dark_folk_music_.ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\videogames\acvalhalla_valhallacalling.ogg",db+0,1};
 	duration=227;
-	musicClass = "Games";
-};
-class running_with_rifles___main_theme 
-{
-	name = "Running with rifles - Main theme";
-	sound[] = {"RomeMusic\Games\running_with_rifles___main_theme.ogg",db+0,1};
-	duration=150;
-	musicClass = "Games";
-};
-class nierost_kainesalvation 
-{
-	name = "Nier - Kaine Salvation";
-	sound[] = {"RomeMusic\Games\nierost_kainesalvation.ogg",db+0,1};
-	duration=187;
-	musicClass = "Games";
-};
-class nierost_kaineescape 
-{
-	name = "Nier - Kaine Escape";
-	sound[] = {"RomeMusic\Games\nierost_kaineescape.ogg",db+0,1};
-	duration=183;
-	musicClass = "Games";
-};
-class nierost_emilsacrifice 
-{
-	name = "Nier - Emil Sacrifice";
-	sound[] = {"RomeMusic\Games\nierost_emilsacrifice.ogg",db+0,1};
-	duration=207;
-	musicClass = "Games";
+	musicClass = "Videogames";
 };
 
-class lone_star {
-	name = "Lone Star";
-	sound[] = {"RomeMusic\Games\lone_star.ogg",db+0,1};
-	duration=147;
-	musicClass = "Games";
+class b1_dawnofanewtime {
+	name = "B1 - Dawn Of A New Time";
+	sound[] = {"RomeMusic\audio\videogames\b1_dawnofanewtime.ogg",db+0,1};
+	duration=195;
+	musicClass = "Videogames";
 };
 
-class TheDreamofFlight {
+class b1_theflightofthepigeon {
+	name = "B1 - The Flight Of The Pigeon";
+	sound[] = {"RomeMusic\audio\videogames\b1_theflightofthepigeon.ogg",db+0,1};
+	duration=102;
+	musicClass = "Videogames";
+};
+
+class civ6_thedreamofflight {
 	name = "Civilization 6 - The Dream of Flight";
-	sound[] = {"RomeMusic\Games\TheDreamofFlight.ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\videogames\civ6_thedreamofflight.ogg",db+0,1};
 	duration=239;
-	musicClass = "Games";
+	musicClass = "Videogames";
 };
 
-class Warhammer40kPreludeToWar {
-	name = "Warhammer 40k - Prelude To War";
-	sound[] = {"RomeMusic\Games\Warhammer40kPreludeToWar.ogg",db+0,1};
-	duration=177;
-	musicClass = "Games";
+class cod4_allghilliedup {
+	name = "Cod 4 - All Ghillied Up";
+	sound[] = {"RomeMusic\audio\videogames\cod4_allghilliedup.ogg",db+0,1};
+	duration=582;
+	musicClass = "Videogames";
 };
 
-class TigerVeteran {
+class codwaw_blackcats {
+	name = "COD WAW - BlackCats";
+	sound[] = {"RomeMusic\audio\videogames\codwaw_blackcats.ogg",db+0,1};
+	duration=937;
+	musicClass = "Videogames";
+};
+
+class codwaw_bloodiron {
+	name = "COD WAW - BloodIron";
+	sound[] = {"RomeMusic\audio\videogames\codwaw_bloodiron.ogg",db+0,1};
+	duration=337;
+	musicClass = "Videogames";
+};
+
+class codwaw_bravesoldat {
+	name = "COD WAW - BraveSoldat";
+	sound[] = {"RomeMusic\audio\videogames\codwaw_bravesoldat.ogg",db+0,1};
+	duration=164;
+	musicClass = "Videogames";
+};
+
+class codwaw_russiantheme {
+	name = "COD WAW - Russian Theme";
+	sound[] = {"RomeMusic\audio\videogames\codwaw_russiantheme.ogg",db+0,1};
+	duration=389;
+	musicClass = "Videogames";
+};
+
+class coh2_maintheme {
+	name = "CoH2 - Main Theme";
+	sound[] = {"RomeMusic\audio\videogames\coh2_maintheme.ogg",db+0,1};
+	duration=226;
+	musicClass = "Videogames";
+};
+
+class doometernal_bfgdivision {
+	name = "Doom Eternal - BFG Division";
+	sound[] = {"RomeMusic\audio\videogames\doometernal_bfgdivision.ogg",db+0,1};
+	duration=507;
+	musicClass = "Videogames";
+};
+
+class doometernal_cultistbase {
+	name = "Doom Eternal - Cultist Base";
+	sound[] = {"RomeMusic\audio\videogames\doometernal_cultistbase.ogg",db+0,1};
+	duration=332;
+	musicClass = "Videogames";
+};
+
+class doometernal_theonlythingtheyfearisyou {
+	name = "Doom Eternal - The Only Thing they Fear is You";
+	sound[] = {"RomeMusic\audio\videogames\doometernal_theonlythingtheyfearisyou.ogg",db+0,1};
+	duration=305;
+	musicClass = "Videogames";
+};
+
+class farcry3blooddragon_theme  {
+	name = "Farcry 3 Blood Dragon - Blood Dragon Theme";
+	sound[] = {"RomeMusic\audio\videogames\farcry3blooddragon_theme.ogg",db+0,1};
+	duration=186;
+	musicClass = "Videogames";
+};
+
+class halo3_finishthefight {
+	name = "Halo 3 - Finish The Fight";
+	sound[] = {"RomeMusic\audio\videogames\halo3_finishthefight.ogg",db+0,1};
+	duration=147;
+	musicClass = "Videogames";
+};
+
+class halo3_neverforget {
+	name = "Halo 3 - Never Forget";
+	sound[] = {"RomeMusic\audio\videogames\halo3_neverforget.ogg",db+0,1};
+	duration=187;
+	musicClass = "Videogames";
+};
+
+class halo3_onefinaleffort {
+	name = "Halo 3 - One Final Effort";
+	sound[] = {"RomeMusic\audio\videogames\halo3_onefinaleffort.ogg",db+0,1};
+	duration=240;
+	musicClass = "Videogames";
+};
+
+class halo3_rollcall {
+	name = "Halo 3 - Roll Call";
+	sound[] = {"RomeMusic\audio\videogames\halo3_rollcall.ogg",db+0,1};
+	duration=358;
+	musicClass = "Videogames";
+};
+
+class metroexodus_inthehouseinaheartbeat {
+	name = "Metro Exodus - In the house in a heartbeat";
+	sound[] = {"RomeMusic\audio\videogames\metroexodus_inthehouseinaheartbeat.ogg",db+0,1};
+	duration=257;
+	musicClass = "Videogames";
+};
+
+class mgsv_bigbossreturns {
+	name = "MGS V - Big Boss Returns";
+	sound[] = {"RomeMusic\audio\videogames\mgsv_bigbossreturns.ogg",db+0,1};
+	duration=300;
+	musicClass = "Videogames";
+};
+
+class mgsv_herestoyou  {
+	name = "Metal Gear Solid V - Here's to You";
+	sound[] = {"RomeMusic\audio\videogames\mgsv_herestoyou.ogg",db+0,1};
+	duration=191;
+	musicClass = "Videogames";
+};
+
+class mow2as_tigerveteran {
 	name = "TigerVeteran";
-	sound[] = {"RomeMusic\Military\TigerVeteran.ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\videogames\mow2as_tigerveteran.ogg",db+0,1};
 	duration=57;
-	musicClass = "Military";
+	musicClass = "Videogames";
+};
+
+class mw2_whiskeyhotel {
+	name = "MW2 - Whiskey Hotel";
+	sound[] = {"RomeMusic\audio\videogames\mw2_whiskeyhotel.ogg",db+0,1};
+	duration=476;
+	musicClass = "Videogames";
+};
+
+class mw3_battlefornewyork {
+	name = "MW3 - Battle For New York";
+	sound[] = {"RomeMusic\audio\videogames\mw3_battlefornewyork.ogg",db+0,1};
+	duration=388;
+	musicClass = "Videogames";
+};
+
+class mw3_istandalone {
+	name = "MW3 - I Stand Alone";
+	sound[] = {"RomeMusic\audio\videogames\mw3_istandalone.ogg",db+0,1};
+	duration=284;
+	musicClass = "Videogames";
+};
+
+class mw3_maintheme {
+	name = "MW3 - Main Theme";
+	sound[] = {"RomeMusic\audio\videogames\mw3_maintheme.ogg",db+0,1};
+	duration=129;
+	musicClass = "Videogames";
+};
+
+class newvegas_lonestar {
+	name = "Fallout: New Vegas - Lone Star";
+	sound[] = {"RomeMusic\audio\videogames\newvegas_lonestar.ogg",db+0,1};
+	duration=147;
+	musicClass = "Videogames";
+};
+
+class nier_emilsacrifice  {
+	name = "Nier - Emil Sacrifice";
+	sound[] = {"RomeMusic\audio\videogames\nier_emilsacrifice.ogg",db+0,1};
+	duration=207;
+	musicClass = "Videogames";
+};
+
+class nier_kaineescape  {
+	name = "Nier - Kaine Escape";
+	sound[] = {"RomeMusic\audio\videogames\nier_kaineescape.ogg",db+0,1};
+	duration=183;
+	musicClass = "Videogames";
+};
+
+class nier_kainesalvation  {
+	name = "Nier - Kaine Salvation";
+	sound[] = {"RomeMusic\audio\videogames\nier_kainesalvation.ogg",db+0,1};
+	duration=187;
+	musicClass = "Videogames";
+};
+
+class runningwithrifles_maintheme  {
+	name = "Running with rifles - Main theme";
+	sound[] = {"RomeMusic\audio\videogames\runningwithrifles_maintheme.ogg",db+0,1};
+	duration=150;
+	musicClass = "Videogames";
+};
+
+class tarkov_darkhorizon {
+	name = "Escape from Tarkov - Dark Horizon";
+	sound[] = {"RomeMusic\audio\videogames\tarkov_darkhorizon.ogg",db+0,1};
+	duration=244;
+	musicClass = "Videogames";
+};
+
+class tarkov_theme {
+	name = "Escape from Tarkov - Main Theme";
+	sound[] = {"RomeMusic\audio\videogames\tarkov_theme.ogg",db+0,1};
+	duration=326;
+	musicClass = "Videogames";
+};
+
+class w40k_childrenoftheomnissiah {
+	name = "W40k - Children of the Omnissiah";
+	sound[] = {"RomeMusic\audio\videogames\w40k_childrenoftheomnissiah.ogg",db+0,1};
+	duration=107;
+	musicClass = "Videogames";
+};
+
+class w40k_childrenoftheomnissiahextended {
+	name = "W40k - Children of the Omnissiah (EXTENDED)";
+	sound[] = {"RomeMusic\audio\videogames\w40k_childrenoftheomnissiahextended.ogg",db+0,1};
+	duration=616;
+	musicClass = "Videogames";
+};
+
+class w40k_preludetowar {
+	name = "Warhammer 40k - Prelude To War";
+	sound[] = {"RomeMusic\audio\videogames\w40k_preludetowar.ogg",db+0,1};
+	duration=177;
+	musicClass = "Videogames";
+};
+
+class warthunder_takeyourtime   {
+	name = "War Thunder - Take your time ";
+	sound[] = {"RomeMusic\audio\videogames\warthunder_takeyourtime  .ogg",db+0,1};
+	duration=259;
+	musicClass = "Videogames";
+};
+
+class yakuza_bakamitai {
+	name = "Yakuza - Baka Mitai";
+	sound[] = {"RomeMusic\audio\videogames\yakuza_bakamitai.ogg",db+0,1};
+	duration=616;
+	musicClass = "Videogames";
 };
