@@ -41,9 +41,9 @@ class rammstein_deutschland {
 	musicClass = "Metal";
 };
 
-class AttackOfTheDeadMen {
+class sabaton_attackofthedeadmen {
 	name = "Sabaton - Attack Of The Dead Men";
-	sound[] = {"RomeMusic\audio\metal\AttackOfTheDeadMen.ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\metal\sabaton_attackofthedeadmen.ogg",db+0,1};
 	duration=214;
 	musicClass = "Metal";
 };

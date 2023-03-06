@@ -54,9 +54,9 @@ class blacksabbath_warpigs {
 	musicClass = "Rock";
 };
 
-class ColdChiselKheSanh {
+class coldchisel_khesanh {
 	name = "Cold Chisel - KheSanh";
-	sound[] = {"RomeMusic\audio\rock\ColdChisel-KheSanh.ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\rock\coldchisel_khesanh.ogg",db+0,1};
 	duration=250;
 	musicClass = "Rock";
 };
@@ -128,6 +128,13 @@ class kooladnthegang_celebration {
 	name = "Kool & The Gang - Celebration";
 	sound[] = {"RomeMusic\audio\rock\kooladnthegang_celebration.ogg",db+0,1};
 	duration=258;
+	musicClass = "Rock";
+};
+
+class lynyrdskynyrd_freebird {
+	name = "Lynyrd Skynyrd - Free Bird";
+	sound[] = {"RomeMusic\audio\rock\lynyrdskynyrd_freebird.ogg",db+0,1};
+	duration=293;
 	musicClass = "Rock";
 };
 

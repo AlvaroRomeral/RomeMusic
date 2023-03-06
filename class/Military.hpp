@@ -29,7 +29,7 @@ class ger_meinkleinesherz {
 class ger_panzerlied {
 	name = "German - Panzerlied";
 	sound[] = {"RomeMusic\audio\military\ger_panzerlied.ogg",db+0,1};
-	duration=147;
+	duration=190;
 	musicClass = "Military";
 };
 
@@ -106,7 +106,7 @@ class rus_korobeiniki {
 class rus_letsgo {
 	name = "USSR - Let's go";
 	sound[] = {"RomeMusic\audio\military\rus_letsgo.ogg",db+0,1};
-	duration=186;
+	duration=200;
 	musicClass = "Military";
 };
 
@@ -134,7 +134,7 @@ class rus_songofthevolgaboatman {
 class rus_theredarmyisthestrongest {
 	name = "USSR - The Red Army is the Strongest";
 	sound[] = {"RomeMusic\audio\military\rus_theredarmyisthestrongest.ogg",db+0,1};
-	duration=179;
+	duration=164;
 	musicClass = "Military";
 };
 

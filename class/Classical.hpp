@@ -1,3 +1,10 @@
+class briantyler_formula1theme {
+	name = "Brian Tyler - Formula 1 Theme";
+	sound[] = {"RomeMusic\audio\classical\briantyler_formula1theme.ogg",db+0,1};
+	duration=46;
+	musicClass = "Classical";
+};
+
 class endofsilence_wheredowegowhenallfallsdown {
 	name = "End Of Silence - Where do we go when all falls down";
 	sound[] = {"RomeMusic\audio\classical\endofsilence_wheredowegowhenallfallsdown.ogg",db+0,1};

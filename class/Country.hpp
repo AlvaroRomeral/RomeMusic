@@ -8,7 +8,7 @@ class johndenver_takemehomecountryroads {
 class johnnycash_godgonnacutyoudown {
 	name = "Johnny Cash - God Gonna Cut You Down";
 	sound[] = {"RomeMusic\audio\country\johnnycash_godgonnacutyoudown.ogg",db+0,1};
-	duration=170;
+	duration=157;
 	musicClass = "Country";
 };
 

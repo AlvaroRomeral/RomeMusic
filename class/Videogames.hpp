@@ -278,9 +278,9 @@ class w40k_preludetowar {
 	musicClass = "Videogames";
 };
 
-class warthunder_takeyourtime   {
+class warthunder_takeyourtime {
 	name = "War Thunder - Take your time ";
-	sound[] = {"RomeMusic\audio\videogames\warthunder_takeyourtime  .ogg",db+0,1};
+	sound[] = {"RomeMusic\audio\videogames\warthunder_takeyourtime.ogg",db+0,1};
 	duration=259;
 	musicClass = "Videogames";
 };
