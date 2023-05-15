@@ -34,7 +34,7 @@ class evangelion_tsubasawokudasai {
 };
 
 class jojo_avalon {
-	name = "jojo - avalon";
+	name = "JoJo - Avalon";
 	sound[] = {"RomeMusic\audio\anime\jojo_avalon.ogg",db+0,1};
 	duration=204;
 	musicClass = "Anime";
@@ -48,14 +48,14 @@ class jojo_iggydeath {
 };
 
 class jojo_ilventodoro {
-	name = "jojo - il vento d'oro";
+	name = "JoJo - il vento d'oro";
 	sound[] = {"RomeMusic\audio\anime\jojo_ilventodoro.ogg",db+0,1};
 	duration=296;
 	musicClass = "Anime";
 };
 
 class jojo_jotaro {
-	name = "jojo - jotaro theme";
+	name = "JoJo - Jotaro theme";
 	sound[] = {"RomeMusic\audio\anime\jojo_jotaro.ogg",db+0,1};
 	duration=308;
 	musicClass = "Anime";
@@ -69,21 +69,21 @@ class jojo_lasttrainhome {
 };
 
 class jojo_propaganda {
-	name = "jojo - propaganda";
+	name = "JoJo - Propaganda";
 	sound[] = {"RomeMusic\audio\anime\jojo_propaganda.ogg",db+0,1};
 	duration=183;
 	musicClass = "Anime";
 };
 
 class jojo_season1op {
-	name = "jojo - opening 1";
+	name = "JoJo - opening 1";
 	sound[] = {"RomeMusic\audio\anime\jojo_season1op.ogg",db+0,1};
 	duration=275;
 	musicClass = "Anime";
 };
 
 class jojo_season3op {
-	name = "jojo - opening 3";
+	name = "JoJo - opening 3";
 	sound[] = {"RomeMusic\audio\anime\jojo_season3op.ogg",db+0,1};
 	duration=288;
 	musicClass = "Anime";
